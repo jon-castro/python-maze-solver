@@ -23,4 +23,3 @@ class Window:
             
     def close(self):
         self.running = False
-        
